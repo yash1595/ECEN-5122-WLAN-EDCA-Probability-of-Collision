@@ -1,12 +1,12 @@
 # ECEN-5122-WLAN-EDCA-Probability-of-Collision
-Wireless Local Area Network (WLAN) Final Project  
+# Wireless Local Area Network (WLAN) Final Project  
 
-#Brief :   
+# Brief :   
         The zip folders contain MATLAB codes for demonstrating probability of collision in EDCA.  
         The file "FilesForEDCAExpansion" calculates the collision probability as Contention Window (CW) increases after each collision.
         The file "FilesForReverseEDCAExpansion" calculates the collision probability as Contention Window (CW) decreases after each collision.  
 
-#Steps:  
+# Steps:  
         1. For the file "FilesForEDCAExpansion", execute "Pcollision_Project_File.m".
            For the file "FilesForReverseEDCAExpansion", execute "Pcollision_change_probability.m"  
         2. When the prompt to enter a matrix shows up, enter any of the following matrix names.
